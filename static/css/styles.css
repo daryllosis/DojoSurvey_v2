@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper_results {
+    margin: 30px auto;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    background-color: gray;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.wrapper_index {
+    margin: 30px auto;
+    width: 400px;
+    height: 270px;
+    padding: 20px;
+    background-color: gray;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.formdiv {
+    width: 100px;
+    margin-top: 5px;
+}
+
+.infodiv {
+    margin-top: 5px;
+}
+
+button, .formbutton {
+    color: white;
+    background-color: black;
+    padding: 6px;
+    border-radius: 4px;
+}
